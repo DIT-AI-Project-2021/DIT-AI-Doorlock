@@ -1,4 +1,4 @@
-# AI Vision based Door Lock System using NVIDIA Jeton nano
+# AI Vision based Doorlook System using NVIDIA Jeton nano
 
 ### YouTube Video
 
