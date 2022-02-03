@@ -5,7 +5,7 @@
 [![Video Label](http://img.youtube.com/vi/MCyqEKgJDNA/0.jpg)](https://youtu.be/MCyqEKgJDNA)
 
 ### System Architecture
-<img width="461" src="https://user-images.githubusercontent.com/1857075/152357049-375383a6-2c59-4167-a9a2-d3aae17ea128.png">
+<img width="461" src="https://user-images.githubusercontent.com/1857075/152360432-131465a8-752a-4b17-9e61-1b71da00fa88.jpg">
 
 ### Dlib facial landmark model
 <img width="461" src="https://user-images.githubusercontent.com/1857075/152357066-42de7774-d39b-4259-bba3-cd63a3bfbb92.png">
@@ -17,6 +17,6 @@
 <img width="461" src="https://user-images.githubusercontent.com/1857075/152357077-8e7b6bea-816a-42e2-a942-620380a00f6b.png">
 
 ### Usage Scenarios
-<img width="461" src="https://user-images.githubusercontent.com/1857075/152357079-afa1a69c-dab3-4707-986a-63696188561d.png">
+<img width="461" src="https://user-images.githubusercontent.com/1857075/152359759-a1d1e4d7-9992-4dff-bd40-01c706d258e6.jpg">
 
-<img width="461" src="https://user-images.githubusercontent.com/1857075/152357081-3c8d96cf-39f8-4989-a1b7-58a2faa9822a.png">
+<img width="461" src="https://user-images.githubusercontent.com/1857075/152359779-e095d81f-8ceb-4e89-8af0-5daf0af536e1.jpg">
