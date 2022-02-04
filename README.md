@@ -13,7 +13,7 @@
 ### Jetson nano 4G
 <img width="461" src="https://user-images.githubusercontent.com/1857075/152357071-6658b189-58d9-40fb-a57b-d0ed2efac824.png">
 
-### Software Components
+### Software Components : API
 <img width="461" src="https://user-images.githubusercontent.com/1857075/152357077-8e7b6bea-816a-42e2-a942-620380a00f6b.png">
 
 ### Operational Process
