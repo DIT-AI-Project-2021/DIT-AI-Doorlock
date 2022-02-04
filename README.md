@@ -1,7 +1,6 @@
 # AI Vision based Doorlook System using NVIDIA Jeton nano
 
-### YouTube Video 
-<img width="46" src="https://user-images.githubusercontent.com/1857075/152563029-713676ce-8698-4929-8f4f-b3c7cb7089ed.png.jpg">
+### YouTube Video <img width="46" src="https://user-images.githubusercontent.com/1857075/152563029-713676ce-8698-4929-8f4f-b3c7cb7089ed.png">
 
 
 [![Video Label](http://img.youtube.com/vi/MCyqEKgJDNA/0.jpg)](https://youtu.be/MCyqEKgJDNA)
